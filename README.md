@@ -1,5 +1,8 @@
-Welcome to the Scynapse [![Build Status](https://secure.travis-ci.org/thenewmotion/scynapse.png)](http://travis-ci.org/thenewmotion/scynapse)
-==================================
+Scynapse has moved to the Axon repository, this version is not actively developed anymore. 
+
+Please move over to [Axon Framework Scynapse (https://github.com/AxonFramework/Scynapse)](https://github.com/AxonFramework/Scynapse)
+
+
 
 This project aims to bring more natural experience with Axon Framework (http://www.axonframework.org) in Scala land.
 
